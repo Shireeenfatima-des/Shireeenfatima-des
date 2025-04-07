@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shireeenfatima, an aspiring data analyst📊📈📉
 - 👀 I’m interested in Data analysis, Machine Learning and Artificial intelligence.🙂💞
-- 🌱 I’m currently learningTablue, Machine Learning ✍️
-- 💞️ I’m looking to collaborate on doing advanced projects in Power BI,Tablue.📊
+- 🌱 I’m currently learning Tableau, Machine Learning ✍️
+- 💞️ I’m looking to collaborate on doing advanced projects in Power BI,Tableau.📊
 - 📫 How to reach me hshireen205@gmail.com 📧
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
